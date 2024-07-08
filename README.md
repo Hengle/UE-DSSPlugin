@@ -1,3 +1,6 @@
+# If you are looking for DSSPro, please follow this [Link](https://drive.google.com/file/d/1dOqRzRy57iKmYpc4M5W2XuJU1naHEfaL/view?usp=sharing).
+# For DSSPro assistance or inquiry please email dynamicserverssystems@gmail.com
+
 # This project is no longer maintained on GitHub, but you may obtain the latest maintained version on [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/dynamic-servers-sub-system). 
 
 <h1 align="center">
